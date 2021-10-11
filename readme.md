@@ -1,4 +1,4 @@
-# To create a mononert or a monorepo.
+# To create a monomert or a monorepo.
                            'https://github.com/GyanPrakashRaj/shelllbaba.git'
 - Make a file containing the git URLs of the repos you want to
   combine. These can be paths to bare repos (ideally created with `git
